@@ -1,0 +1,7 @@
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\bin\Debug\9.9-)Collections.exe.config
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\bin\Debug\9.9-)Collections.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\bin\Debug\9.9-)Collections.pdb
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\obj\Debug\9.9-)Collections.csprojAssemblyReference.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\obj\Debug\9.9-)Collections.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\obj\Debug\9.9-)Collections.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\9.9-)Collections\obj\Debug\9.9-)Collections.pdb

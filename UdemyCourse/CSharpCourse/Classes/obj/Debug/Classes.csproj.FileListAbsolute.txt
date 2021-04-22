@@ -1,0 +1,7 @@
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Classes\obj\Debug\Classes.pdb

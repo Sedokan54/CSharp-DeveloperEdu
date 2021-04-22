@@ -1,0 +1,7 @@
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\obj\Debug\9.9.1-)Exceptions.csprojAssemblyReference.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\obj\Debug\9.9.1-)Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Hakan Kaya\Desktop\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb
